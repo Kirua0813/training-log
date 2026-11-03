@@ -2,7 +2,7 @@
 
 A private, single-file web app to track daily training, nutrition, body weight and sleep. It runs entirely in your browser, installs on an iPhone home screen like a native app, and has five dark red-and-black visual styles.
 
-**Live app:** `https://YOUR-USERNAME.github.io/training-log/`
+**Live app:** `https://Kirua0813.github.io/training-log/`
 
 ## Features
 
